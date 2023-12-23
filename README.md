@@ -9,6 +9,8 @@ Remote Companies:
 6. Canonical
 7. Simform
 8. SingleStore
+9. Qube
+10. JumpCloud
 
 Hyderabad:
 1. Microsoft
